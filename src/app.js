@@ -1,1 +1,0 @@
-const hackTheSystem = 999;
